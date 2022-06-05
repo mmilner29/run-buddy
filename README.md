@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-[(https://mmilner29.github.io/run-buddy/)](https://mmilner29.github.io/run-buddy/)
+[https://mmilner29.github.io/run-buddy/](https://mmilner29.github.io/run-buddy/)
 
 ## Contribution
 Made with ❤️ by Madi Milner
